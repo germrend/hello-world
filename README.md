@@ -6,4 +6,4 @@ I am German Rendon, I like computers and technology since I was a kid in  90s an
 Then I study to be a Pc Technician.
 I like philosophy,literature,comics, hiking and science.
 
-
+Starting to practice github again since 12/07/2020.
